@@ -151,7 +151,7 @@ let buscarNotas = () => {
           <Text>Guardar notas</Text>
         </TouchableOpacity>
         <TouchableOpacity style={styles.button} onPress={mostrarNotas}>
-          <Text>Mostrar notas del estudiante</Text>
+          <Text>Mostrar/Calcular notas del estudiante</Text>
         </TouchableOpacity>
       </View>
       <View style={styles.row}>
